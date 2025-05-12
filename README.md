@@ -27,7 +27,7 @@ I'm a **Marketer for Electronic Products in the Banking Sector** with a strong p
 
 ### [Habit Tracker API](project_link_here)
 
-![Project Screenshot](project_screenshot_url_here)
+<!-- ![Project Screenshot](project_screenshot_url_here) -->
 
 **Habit Tracker API** is a RESTful backend project built with **Django and Django REST Framework**. It enables users to track habits, view progress, and gain insights through metrics. It includes features like authentication, CRUD for habits, streak tracking, and a summarized homepage endpoint.
 
@@ -39,4 +39,4 @@ A platform in development that will showcase handcrafted wood items, DIY builds,
 
 - **[LinkedIn](https://www.linkedin.com/in/jaybmensah-doinghardthings/)**
 - **[X](x.com/jayb_mensah)**
-- **[Personal Blog or Portfolio](your_site_link_if_any)**
+<!-- - **[Personal Blog or Portfolio](your_site_link_if_any)** -->
